@@ -4,7 +4,7 @@
 Implementación del algoritmo de Thompson para generar un AFN a partir de un AST y simular cadenas para verificar su pertenencia al lenguaje de la expresión regular.
 
 ## Enlaces
-
+[https://youtu.be/cR3jWl5vJOM](https://youtu.be/cR3jWl5vJOM)
 
 ## Requisitos Previos
 Sistema Linux (probado en Fedora) con Graphviz instalado:
